@@ -1,0 +1,11 @@
+	A		B		C		D
+quadruplet1	10.1	-	1	-	0.5	-	0.4
+quadruplet2	2.2	-	70.5	-	3.4	-	7
+quadruplet3	4	-	5.3	-	50	-	2.3
+quadruplet4	6	-	7.7	-	9.9	-	98.2
+quadruplet5	0.1	-	6	-	7	-	8.2
+quadruplet6	4.5	-	0.05	-	3.4	-	4.5
+quadruplet7	16.5	-	11.4	-	0.03	-	10.2
+quadruplet8	66	-	65	-	51	-	0.01
+quadruplet9	65	-	56	-	54.3	-	60.1
+quadruplet10	10	-	12	-	13.4	-	11.2

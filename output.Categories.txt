@@ -1,0 +1,10 @@
+quadruplet1	AD
+quadruplet2	BD
+quadruplet3	CD
+quadruplet4	DD
+quadruplet5	AS
+quadruplet6	BS
+quadruplet7	CS
+quadruplet8	DS
+quadruplet9	BALANCE
+quadruplet10	BALANCE
