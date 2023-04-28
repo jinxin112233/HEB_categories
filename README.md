@@ -50,5 +50,8 @@ Note: A dominant (AD), B dominant (BD), C dominant (CD), D dominant (DD), A supp
 # Limitations
 Please input each quadruple with a total expression > 0.5 (not normalized) or input the normalized data. If you input a quadruple with total expression < 0.5, the above command you use to process may get an error that the category does not match the quadruple id.
 
+# Reference
+Ramírez-González, R. H. et al. The transcriptional landscape of polyploid wheat. Science. 361, eaar6089 (2018).
+
 # Citations
 Chromosomal-scale haplotype-resolved genome assemblies of the two wild octoploid progenitors of cultivated strawberry illuminate genomic diversification from wild relatives to modern cultivars (in revision)
