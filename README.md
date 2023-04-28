@@ -47,6 +47,9 @@ Output file: output.Categories.txt
 
 Note: A dominant (AD), B dominant (BD), C dominant (CD), D dominant (DD), A suppressed (AS), B suppressed (BS), C suppressed (CS) and D suppressed (DS).
 
+# Note
+Before you start running your data, we recommend that you run test data (input.fpkm.txt).
+
 # Limitations
 Please input each quadruple with a total expression > 0.5 (not normalized) or input the normalized data. If you input a quadruple with total expression < 0.5, the above command you use to process may get an error that the category does not match the quadruple id.
 
