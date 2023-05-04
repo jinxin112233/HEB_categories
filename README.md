@@ -2,12 +2,12 @@
 Identification of the homoeologous expression bias (HEB) categories for each quadruplet
 
 # Introduction
-The coordinated expression of highly related homoeologous genes in polyploid species underlies the phenotypes of many of the world's major crops (Ramírez-González et al., 2018). Identification the patterns of HEB category for each quadruplet (1:1:1:1)  could help us better study the diversity of octoploid species phenotypes. This study defined nine ideal categories of quadruplets and determined the category of each quadruplet by comparing the shortest distance between each quadruplet with the nine ideal quadruplets.
+The coordinated expression of highly related homoeologous genes in polyploid species underlies the phenotypes of many of the world's major crops (Ramírez-González et al., 2018). Identification the patterns of HEB category for each quadruplet (1:1:1:1) could help us better study the diversity of octoploid species phenotypes. This study defined nine ideal categories of quadruplets and determined the category of each quadruplet by comparing the shortest distance between each quadruplet with the nine ideal quadruplets.
 
 <img src="https://user-images.githubusercontent.com/72123585/233905753-b1a49b5f-1141-4503-9715-6ced46f03bb5.jpg" width="900" height="450">
 
 # Dependencies
-Practical Extraction and Report Language (Perl) 
+Practical Extraction and Report Language (Perl v5.26.2 is more recommended)
 
 # Installation
 `wget https://github.com/jinxin112233/HEB_categories.git`
@@ -55,6 +55,7 @@ Please input each quadruple with a total expression > 0.5 (not normalized) or in
 
 # Reference
 Ramírez-González, R. H. et al. The transcriptional landscape of polyploid wheat. Science. 361, eaar6089 (2018).
+Ye, C. Y. et al. The Genomes of the allohexaploid Echinochloa crus-galli and its progenitors provide insights into polyploidization-driven Adaptation. Mol. Plant. 13, 1298–1310 (2020).
 
 # Citations
 Chromosomal-scale haplotype-resolved genome assemblies of the two wild octoploid progenitors of cultivated strawberry illuminate genomic diversification from wild relatives to modern cultivars (in revision)
