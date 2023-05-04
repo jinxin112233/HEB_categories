@@ -59,4 +59,4 @@ Ramírez-González, R. H. et al. The transcriptional landscape of polyploid whea
 Ye, C. Y. et al. The Genomes of the allohexaploid Echinochloa crus-galli and its progenitors provide insights into polyploidization-driven Adaptation. Mol. Plant. 13, 1298–1310 (2020).
 
 # Citations
-Chromosomal-scale haplotype-resolved genome assemblies of the two wild octoploid progenitors of cultivated strawberry illuminate genomic diversification from wild relatives to modern cultivars (in revision)
+Chromosomal-scale haplotype-resolved genome assemblies of the two wild octoploid progenitors of cultivated strawberry illuminate genomic diversification from wild relatives to modern cultivars (in revision).
