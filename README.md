@@ -7,7 +7,7 @@ The coordinated expression of highly related homoeologous genes in polyploid spe
 <img src="https://user-images.githubusercontent.com/72123585/233905753-b1a49b5f-1141-4503-9715-6ced46f03bb5.jpg" width="900" height="450">
 
 # Dependencies
-Practical Extraction and Report Language (Perl v5.26.2 is more recommended)
+Practical Extraction and Report Language (Perl v5.26.2 is more recommended in this study)
 
 # Installation
 `wget https://github.com/jinxin112233/HEB_categories.git`
