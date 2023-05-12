@@ -23,7 +23,7 @@ Example input file: input.fpkm.txt
 
 <img src="https://user-images.githubusercontent.com/72123585/233907234-b5ca7e6b-8994-4b5a-bfd7-0f8a4d939e0a.png" width="620" height="210">
 
-Note: The values in the table represent the expression of each homoeologous (FPKM or TPM is recommended).
+Tips: The values in the table represent the expression of each homoeologous (FPKM or TPM is recommended).
 
 # Usage
 
@@ -42,7 +42,7 @@ Example output file: output.Categories.txt
 
 <img src="https://user-images.githubusercontent.com/72123585/233910231-3414cb9c-9fea-4f2e-8811-e248fe3ba233.png" width="280" height="220">
 
-Note: A dominant (AD), B dominant (BD), C dominant (CD), D dominant (DD), A suppressed (AS), B suppressed (BS), C suppressed (CS) and D suppressed (DS).
+Tips: A dominant (AD), B dominant (BD), C dominant (CD), D dominant (DD), A suppressed (AS), B suppressed (BS), C suppressed (CS) and D suppressed (DS).
 
 # Note
 Before you start running your data, we recommend that you run test data (input.fpkm.txt).
