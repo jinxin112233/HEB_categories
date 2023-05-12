@@ -10,13 +10,18 @@ The coordinated expression of highly related homoeologous genes in polyploid spe
 Practical Extraction and Report Language (Perl v5.26.2 is more recommended in this study)
 
 # Installation
-`wget https://github.com/jinxin112233/HEB_categories.git`
 
-`unzip HEB_categories-main.zip` and `cd HEB_categories-main`
+```
+wget https://github.com/jinxin112233/HEB_categories.git
 
-`chmod +x HEB_categories.perl`
+unzip HEB_categories-main.zip
 
-`export PATH=/your/path/to/HEB_categories-main`
+cd HEB_categories-main
+
+chmod +x HEB_categories.perl
+
+export PATH=/your/path/to/HEB_categories-main
+```
 
 # Input file format
 Input file: input.fpkm.txt
@@ -26,19 +31,24 @@ Input file: input.fpkm.txt
 Note: The values in the table represent the expression of each homoeologous (FPKM or TPM is recommended).
 
 # Usage
+
 ##Identification of HEB categories
 
-`HEB_categories.perl input.fpkm.txt`
+```
+HEB_categories.perl input.fpkm.txt
+```
 
------------------------------------------
+---------------------------------------------------
 
 ##Output file processing
 
-`sed 1d input.fpkm.txt | awk '{print$1}' - > tmp1.txt`
+```
+sed 1d input.fpkm.txt | awk '{print$1}' - > tmp1.txt
 
-`awk '{print$5}' input.fpkm.txt_summary > tmp2.txt`
+awk '{print$5}' input.fpkm.txt_summary > tmp2.txt
 
-`paste tmp1.txt tmp2.txt > output.Categories.txt`
+paste tmp1.txt tmp2.txt > output.Categories.txt
+```
 
 # Output file
 Output file: output.Categories.txt
