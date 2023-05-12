@@ -24,7 +24,7 @@ export PATH=/your/path/to/HEB_categories-main
 ```
 
 # Input file format
-Input file: input.fpkm.txt
+Example input file: input.fpkm.txt
 
 <img src="https://user-images.githubusercontent.com/72123585/233907234-b5ca7e6b-8994-4b5a-bfd7-0f8a4d939e0a.png" width="650" height="220">
 
@@ -45,7 +45,7 @@ paste tmp1.txt tmp2.txt > output.Categories.txt
 ```
 
 # Output file
-Output file: output.Categories.txt
+Example output file: output.Categories.txt
 
 <img src="https://user-images.githubusercontent.com/72123585/233910231-3414cb9c-9fea-4f2e-8811-e248fe3ba233.png" width="300" height="250">
 
