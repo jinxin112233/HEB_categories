@@ -27,7 +27,7 @@ Note: The values in the table represent the expression of each homoeologous (FPK
 
 # Usage
 
-A typical hifiasm command line looks like:
+A typical command line looks like:
 
 ```
 # Identification of HEB categories
