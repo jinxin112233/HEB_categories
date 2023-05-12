@@ -40,7 +40,7 @@ sed 1d input.fpkm.txt | awk '{print$1}' - > tmp1.txt && awk '{print$5}' input.fp
 # Output file
 Example output file: output.Categories.txt
 
-<img src="https://user-images.githubusercontent.com/72123585/233910231-3414cb9c-9fea-4f2e-8811-e248fe3ba233.png" width="300" height="225">
+<img src="https://user-images.githubusercontent.com/72123585/233910231-3414cb9c-9fea-4f2e-8811-e248fe3ba233.png" width="280" height="220">
 
 Note: A dominant (AD), B dominant (BD), C dominant (CD), D dominant (DD), A suppressed (AS), B suppressed (BS), C suppressed (CS) and D suppressed (DS).
 
