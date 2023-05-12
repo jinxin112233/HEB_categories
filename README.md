@@ -12,14 +12,9 @@ Practical Extraction and Report Language (Perl v5.26.2 is more recommended in th
 # Installation
 
 ```
-wget https://github.com/jinxin112233/HEB_categories.git
-
-unzip HEB_categories-main.zip
-
+git clone https://github.com/jinxin112233/HEB_categories
 cd HEB_categories-main
-
 chmod +x HEB_categories.perl
-
 export PATH=/your/path/to/HEB_categories-main
 ```
 
@@ -32,15 +27,15 @@ Note: The values in the table represent the expression of each homoeologous (FPK
 
 # Usage
 
-Identification of HEB categories and output file processing command line looks like:
+A typical hifiasm command line looks like:
 
 ```
+# Identification of HEB categories
 HEB_categories.perl input.fpkm.txt
 
+# output file processing
 sed 1d input.fpkm.txt | awk '{print$1}' - > tmp1.txt
-
 awk '{print$5}' input.fpkm.txt_summary > tmp2.txt
-
 paste tmp1.txt tmp2.txt > output.Categories.txt
 ```
 
