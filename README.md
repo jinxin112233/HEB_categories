@@ -32,17 +32,11 @@ Note: The values in the table represent the expression of each homoeologous (FPK
 
 # Usage
 
-##Identification of HEB categories
+Identification of HEB categories and output file processing command line looks like:
 
 ```
 HEB_categories.perl input.fpkm.txt
-```
 
----------------------------------------------------
-
-##Output file processing
-
-```
 sed 1d input.fpkm.txt | awk '{print$1}' - > tmp1.txt
 
 awk '{print$5}' input.fpkm.txt_summary > tmp2.txt
